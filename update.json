@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "description": "test update",
-  "file": "TMS-1919.zip"
+    "device": "BL25",
+    "version": "1.0.1",
+    "file": "BL25_V1_0_1.bin"
 }
