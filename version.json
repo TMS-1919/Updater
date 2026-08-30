@@ -1,5 +1,5 @@
 {
-    "device": "BL25",
+    "system": "BL25",
     "mcu": "Main",
     "version": "1.0.1",
     "date": "2026-08-30",
