@@ -1,6 +1,21 @@
 {
     "device": "BL25",
+    "mcu": "Main",
     "version": "1.0.1",
     "date": "2026-08-30",
     "file": "BL25_V1_0_1.bin"
 }
+    {
+      "system": "HL",
+      "mcu": "Master",
+      "version": "1.0.0",
+      "date": "2026-08-30",
+      "file": "HL_Master_V1_0_0.bin"
+    },
+    {
+      "system": "HL",
+      "mcu": "Slave",
+      "version": "1.0.0",
+      "date": "2026-08-30",
+      "file": "HL_Slave_V1_0_0.bin"
+    }
