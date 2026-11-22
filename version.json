@@ -3,9 +3,9 @@
         {
             "system": "BL25",
             "mcu": "Main",
-            "version": "1.0.2",
-            "date": "2026-10-23",
-            "file": "BL25_V1_0_2.bin"
+            "version": "1.0.3",
+            "date": "2026-11-22",
+            "file": "BL25_V1_0_3.bin"
         },
         {
             "system": "HL",
